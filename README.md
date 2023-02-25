@@ -38,7 +38,7 @@
 
 <div align='center'>
   <h1> ~ 🌺 Thanks for reading! 🌺 ~ </h1>
-    <img height="500" width="8500" src="https://user-images.githubusercontent.com/80798111/221327867-d8db341c-05c9-44c4-8118-f15e154d371e.png">
+    <img height="500" width="8500" src="https://user-images.githubusercontent.com/80798111/221328332-e9d59573-41fa-420a-99ad-08946e9f0201.png">
 </div>
 
 ##
